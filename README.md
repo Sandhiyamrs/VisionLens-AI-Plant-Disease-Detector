@@ -1,9 +1,4 @@
-Create a professional, full-length README.md for the project:
-
 Title: VisionLens — AI Plant Disease Detector
-
-Include the following sections with clean formatting, icons, tables, and beautiful layout:
-
 1. Project Overview
    - What VisionLens does
    - Why plant disease detection matters
