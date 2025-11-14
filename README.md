@@ -5,7 +5,7 @@ Title: VisionLens — AI Plant Disease Detector
    - How the AI model + web app work together
 
 2. Live Demo (Vercel Link)
-    "[🔗 Live Demo](https://v0-vision-lens-ai-plant-detector.vercel.app/)" 
+    "(https://v0-vision-lens-ai-plant-detector.vercel.app/)" 
 
 3. Features
    - Image upload & preview
