@@ -5,7 +5,7 @@ Title: VisionLens — AI Plant Disease Detector
    - How the AI model + web app work together
 
 2. Live Demo (Vercel Link)
-   - Add this link: https://visionlens-ai.vercel.app/ 
+   - Add this link:https://v0-vision-lens-ai-plant-detector.vercel.app/ 
    - Include a nice "[🔗 Live Demo](https://v0-vision-lens-ai-plant-detector.vercel.app/)" badge/button
 
 3. Features
@@ -22,13 +22,3 @@ Title: VisionLens — AI Plant Disease Detector
    - Tailwind CSS
    - TensorFlow
    - Vercel Serverless Functions
-
-#Make the README.md visually attractive using:
-- Emojis
-- Badges
-- Cards
-- Code blocks
-- Dividers
-- Tables
-
-Finally, generate the complete README.md now using these instructions, with the correct Vercel live link included.
