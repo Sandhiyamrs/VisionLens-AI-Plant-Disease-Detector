@@ -13,16 +13,16 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-(image home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/VisionLens-AI-Plant-Disease-Detector/main/assets/Home.jpg)
 
 ### ⚙ About Page
-(image eplore flavors.jpg)
+[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/VisionLens-AI-Plant-Disease-Detector/main/assets/about.jpg)
 
-### 🎨 Scan Page
-(image login.jpg)
+### 🎨 Scan-image Page
+[(image Scan-image.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/VisionLens-AI-Plant-Disease-Detector/main/assets/scan-image.jpg)
 
 ### ⚙ Result Page
-(image featured scoops.jpg)
+[(image Result.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/VisionLens-AI-Plant-Disease-Detector/main/assets/Result.jpg)
 
 ---
 
