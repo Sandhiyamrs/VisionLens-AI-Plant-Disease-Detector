@@ -70,6 +70,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 ## 🛠️ Tech Stack
 
 | Frontend | Deployment | 
+
 | Next.js (App Router) , TypeScript , Tailwind CSS , AI / ML , TensorFlow , Deep Learning (CNN-based model) | Vercel , Serverless Functions |
 
 ---
