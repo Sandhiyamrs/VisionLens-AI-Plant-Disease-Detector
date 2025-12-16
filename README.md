@@ -1,7 +1,5 @@
 # 🌿 VisionLens — AI Plant Disease Detector
 
----
-
 ## 🌱 Project Overview
 
 VisionLens is an AI-powered web application that detects plant leaf diseases using deep learning and provides confidence scores and cure suggestions in real time.
@@ -37,7 +35,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 --> 🔗 Try it here:
 👉 https://v0-vision-lens-ai-plant-detector.vercel.app/
 
---
+---
 
 ## 📸 Project Screenshots
 
