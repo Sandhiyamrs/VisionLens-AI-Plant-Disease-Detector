@@ -40,6 +40,10 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 ## 📸 Project Screenshots
 
 1.🏠 Home Page
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 2.ℹ️ About Page
 
