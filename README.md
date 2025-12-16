@@ -137,6 +137,11 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** — free to use, modify, and distribute.
+
+---
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
