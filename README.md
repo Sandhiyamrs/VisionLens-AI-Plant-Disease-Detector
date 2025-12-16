@@ -1,14 +1,14 @@
-## 🌿 VisionLens — AI Plant Disease Detector
+# 🌿 VisionLens — AI Plant Disease Detector
 
 ---
 
-# 🌱 Project Overview
+## 🌱 Project Overview
 
 VisionLens is an AI-powered web application that detects plant leaf diseases using deep learning and provides confidence scores and cure suggestions in real time.
 
 ---
 
-# 🔍 Why Plant Disease Detection Matters
+## 🔍 Why Plant Disease Detection Matters
 
 1.Early detection prevents large-scale crop loss
 
@@ -20,7 +20,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-#🧠 How It Works
+## 🧠 How It Works
 
 -User uploads a plant leaf image
 
@@ -32,14 +32,14 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-# 🚀 Live Demo
+## 🚀 Live Demo
 
-# 🔗 Try it here:
+--> 🔗 Try it here:
 👉 https://v0-vision-lens-ai-plant-detector.vercel.app/
 
 --
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
 1.🏠 Home Page
 
@@ -51,7 +51,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 📤 Image upload with live preview
 
@@ -69,14 +69,14 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Frontend | Deployment | 
 | Next.js (App Router) , TypeScript , Tailwind CSS , AI / ML , TensorFlow , Deep Learning (CNN-based model) | Vercel , Serverless Functions |
 
 ---
 
-# 🎯 Use Case
+## 🎯 Use Case
 
 ✅ Portfolio flagship project
 
@@ -88,7 +88,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-# 🧠 What I Learned
+## 🧠 What I Learned
 
 1.Integrating AI models with modern web frameworks
 
@@ -100,7 +100,7 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 ---
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🌍 Multi-language support for farmers
 
@@ -117,4 +117,4 @@ VisionLens is an AI-powered web application that detects plant leaf diseases usi
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
-⭐ If you like this project, consider giving it a star!
+ ## ⭐ If you like this project, consider giving it a star!
