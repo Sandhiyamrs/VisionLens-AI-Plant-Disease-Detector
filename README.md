@@ -1,55 +1,57 @@
-🌿 VisionLens — AI Plant Disease Detector
+## 🌿 VisionLens — AI Plant Disease Detector
 
+---
 
-
-
-
-
-
-
-
-
-
-
-🌱 Project Overview
+# 🌱 Project Overview
 
 VisionLens is an AI-powered web application that detects plant leaf diseases using deep learning and provides confidence scores and cure suggestions in real time.
 
-🔍 Why Plant Disease Detection Matters
+---
 
-Early detection prevents large-scale crop loss
+# 🔍 Why Plant Disease Detection Matters
 
-Helps farmers take timely action
+1.Early detection prevents large-scale crop loss
 
-Improves agricultural productivity
+2.Helps farmers take timely action
 
-Reduces dependency on manual inspection
+3.Improves agricultural productivity
 
-🧠 How It Works
+4.Reduces dependency on manual inspection
 
-User uploads a plant leaf image
+---
 
-Image is processed using a TensorFlow deep learning model
+#🧠 How It Works
 
-The model predicts the disease with a confidence score
+-User uploads a plant leaf image
 
-The app displays disease name, accuracy, and treatment suggestions
+-Image is processed using a TensorFlow deep learning model
 
-🚀 Live Demo
+-The model predicts the disease with a confidence score
 
-🔗 Try it here:
+-The app displays disease name, accuracy, and treatment suggestions
+
+---
+
+# 🚀 Live Demo
+
+# 🔗 Try it here:
 👉 https://v0-vision-lens-ai-plant-detector.vercel.app/
 
-📸 Project Screenshots
-🏠 Home Page
+--
+
+# 📸 Project Screenshots
+
+1.🏠 Home Page
 
 ℹ️ About Page
 
-📷 Scan Image Page
+2.📷 Scan Image Page
 
 📊 Result Page
 
-✨ Features
+---
+
+# ✨ Features
 
 📤 Image upload with live preview
 
@@ -65,29 +67,16 @@ The app displays disease name, accuracy, and treatment suggestions
 
 🎨 Clean, modern Next.js App Router design
 
-🛠️ Tech Stack
+---
 
-Frontend
+# 🛠️ Tech Stack
 
-Next.js (App Router)
+| Frontend | Deployment | 
+| Next.js (App Router) , TypeScript , Tailwind CSS , AI / ML , TensorFlow , Deep Learning (CNN-based model) | Vercel , Serverless Functions |
 
-TypeScript
+---
 
-Tailwind CSS
-
-AI / ML
-
-TensorFlow
-
-Deep Learning (CNN-based model)
-
-Deployment
-
-Vercel
-
-Serverless Functions
-
-🎯 Use Case
+# 🎯 Use Case
 
 ✅ Portfolio flagship project
 
@@ -97,17 +86,21 @@ Serverless Functions
 
 ✅ Agriculture & sustainability solution
 
-🧠 What I Learned
+---
 
-Integrating AI models with modern web frameworks
+# 🧠 What I Learned
 
-Handling image-based inference in serverless environments
+1.Integrating AI models with modern web frameworks
 
-Building responsive UIs with Tailwind CSS
+2.Handling image-based inference in serverless environments
 
-Deploying full-stack AI apps on Vercel
+3.Building responsive UIs with Tailwind CSS
 
-🚀 Future Enhancements
+4.Deploying full-stack AI apps on Vercel
+
+---
+
+# 🚀 Future Enhancements
 
 🌍 Multi-language support for farmers
 
@@ -118,6 +111,9 @@ Deploying full-stack AI apps on Vercel
 📊 Disease history & analytics dashboard
 
 📄 License
+
+---
+
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
